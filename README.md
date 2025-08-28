@@ -76,6 +76,21 @@ I am not a formally trained physicist, and this work has not been peer-reviewed.
 
 ---
 
+## 🧩 On Openness
+
+This project is released as a polished edition to encourage readability and engagement.  
+The private repo retains the raw, timestamped development log as proof of origin.  
+
+ψ-gravity is not a finished theory but a **seed**: if it inspires you, refine it, challenge it, or branch it into something new.  
+
+---
+
+## 🧠 Inspiration
+
+> “The mind that opens to a new idea never returns to its original size.” — Albert Einstein  
+
+---
+
 ## 🤖 Collaboration with AI
 
 This project is a collaboration between human intuition and AI assistance:  
@@ -90,21 +105,6 @@ The AI serves as a computational partner—not the source of the theory.
 ## 👀 Awareness of Limitations
 
 Both human and AI contributions may contain errors. This work is not a final answer—it is a scaffold for curiosity and further exploration.  
-
----
-
-## 🧩 On Openness
-
-This project is released as a polished edition to encourage readability and engagement.  
-The private repo retains the raw, timestamped development log as proof of origin.  
-
-ψ-gravity is not a finished theory but a **seed**: if it inspires you, refine it, challenge it, or branch it into something new.  
-
----
-
-## 🧠 Inspiration
-
-> “The mind that opens to a new idea never returns to its original size.” — Albert Einstein  
 
 ---
 
