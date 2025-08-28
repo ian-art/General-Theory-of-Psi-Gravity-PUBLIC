@@ -24,6 +24,7 @@ The name, in homage to Einstein, reflects my intent to explore ψ-gravity as a w
 ## 🌌 Core Equation
 
 Gravity(x, t) = ∇²[space(x) + current(x)²] × ψ(x, t)
+
 Force(x, t) = −∇[Gravity(x, t)]
 
 
@@ -117,4 +118,4 @@ Contact: **ian.tancinco.psi.gravity@gmail.com**
 ---
 
 📄 Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
-© 2025 Ian Anthony R. Tancinco
+© 2025 Ian Anthony R. Tancinco  
