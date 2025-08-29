@@ -23,18 +23,17 @@ The name, in homage to Einstein, reflects my intent to explore ψ-gravity as a w
 
 ## 🌌 Core Hypothesis
 
-> **Core Equation**  
->  
-> \[
-> Gravity(x, t) = \nabla^2[\,space(x) + current(x)^2\,] \times \psi(x, t)
-> \]  
-> \[
-> Force(x, t) = -\nabla[Gravity(x, t)]
-> \]  
->
-> Plaintext:  
-> - `Gravity(x, t) = (∇² [ space(x) + current(x)² ]) × ψ(x, t)`  
-> - `Force(x, t)   = -∇[Gravity(x, t)]`  
+At the foundation of ψ-gravity is the equation:
+
+Gravity(x, t) = ∇²[space(x) + current(x)²] × ψ(x, t)
+
+Force(x, t) = −∇[Gravity(x, t)]
+
+
+Plaintext format:  
+- Gravity(x, t) = Laplacian of [space + current²] × ψ(x, t)  
+- Force(x, t)   = Negative gradient of Gravity(x, t)  
+
 
 - **space(x):** geometric substrate (like sand in the desert analogy)  
 - **current(x):** dynamic flows or distortions (like wind shaping dunes)  
@@ -43,7 +42,7 @@ The name, in homage to Einstein, reflects my intent to explore ψ-gravity as a w
 Gravity here is treated as **emergent pressure**: not a force acting at a distance, but the natural result of ψ shaping how space and currents combine.
 
 ---
-
+ 
 ## 🔥 Why This Matters
 
 This equation is not just another speculative relation — it **may be a candidate to address every gravity-related problem**:  
@@ -109,9 +108,9 @@ This public version contains polished write-ups of each phase:
 
 ## ψ-Gravity Definition
 
-\[
-Gravity(x) = \big( \nabla^2 \,[ \, space(x) + current(x)^2 \, ] \big) \times \psi(x)
-\]
+$$
+Gravity(x) = \left( \nabla^2 \left[ \, space(x) + current(x)^2 \, \right] \right) \times \psi(x)
+$$
 
 Plaintext:  
 `Gravity(x) = (∇² [ space(x) + current(x)² ]) × ψ(x)`
@@ -161,6 +160,8 @@ Spiral galaxies maintain their structure because ψ(x) supports long-lived coher
 - ∇²[space + current²] amplifies ψ in coherent regions, deepening arms as attractors.  
 - Gravity ∝ ψ ensures stars are locked into these dune paths, preventing arms from winding up.  
 
+This addresses the **“winding problem”** in astrophysics.
+
 ### Observable Consequences
 
 - **Longevity:** ψ wells act as attractors → spiral arms persist.  
@@ -171,9 +172,7 @@ Spiral galaxies maintain their structure because ψ(x) supports long-lived coher
 
 1. Initialize ψ(x, y) with a spiral Gaussian seed.  
 2. Evolve:  
-   \[
-   Gravity(x,y) = \nabla^2 [\, space(x,y) + current(x,y)^2 \, ] \times \psi(x,y)
-   \]  
+Gravity(x,y)=(∇2[space(x,y)+current(x,y)2])×ψ(x,y)
 3. Drop in test particles (stars).  
 4. Compare:
    - **Without ψ:** spiral arms shear away.  
@@ -183,7 +182,6 @@ Spiral galaxies maintain their structure because ψ(x) supports long-lived coher
 
 > In ψ-gravity, spiral galaxies persist because ψ generates quasi-stable dunes in the cosmic desert. These dunes, reinforced by the Laplacian of space + current², act as spiral attractors. Unlike density-wave models, ψ provides a stabilizing substrate that locks stellar motion into coherent arms, explaining spiral longevity across cosmic time.
 
----
 
 ## 📁 Repository Contents
 
