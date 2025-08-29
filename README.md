@@ -103,7 +103,7 @@ This public version contains polished write-ups of each phase:
 ## ψ-Gravity Definition
 
 $$
-Gravity(x) = \left( \nabla^2 \left[ \, space(x) + current(x)^2 \, \right] \right) \times \psi(x)
+Gravity(x) = \left( \nabla^2 \left[ space(x) + current(x)^2 \right] \right) \times \psi(x)
 $$
 
 Plaintext:  
@@ -120,9 +120,9 @@ Gravity is not a force but a **pressure of curved space-current acting on ψ**.
 
 The force felt by particles is:
 
-\[
+$$
 Force(x) = - \nabla[Gravity(x)]
-\]
+$$
 
 Plaintext:  
 `Force(x) = -∇[Gravity(x)]`
@@ -236,4 +236,5 @@ Contact: **ian.tancinco.psi.gravity@gmail.com**
 
 📄 Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
 © 2025 Ian Anthony R. Tancinco  
+
 
