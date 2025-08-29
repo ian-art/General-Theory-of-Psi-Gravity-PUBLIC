@@ -29,12 +29,6 @@ Gravity(x, t) = ∇²[space(x) + current(x)²] × ψ(x, t)
 
 Force(x, t) = −∇[Gravity(x, t)]
 
-
-Plaintext format:  
-- Gravity(x, t) = Laplacian of [space + current²] × ψ(x, t)  
-- Force(x, t)   = Negative gradient of Gravity(x, t)  
-
-
 - **space(x):** geometric substrate (like sand in the desert analogy)  
 - **current(x):** dynamic flows or distortions (like wind shaping dunes)  
 - **ψ(x):** the hidden seabed/floor of reality — the carrier of curvature and structure  
@@ -242,3 +236,4 @@ Contact: **ian.tancinco.psi.gravity@gmail.com**
 
 📄 Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
 © 2025 Ian Anthony R. Tancinco  
+
