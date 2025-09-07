@@ -79,15 +79,15 @@ This positions ψ-gravity as a **bridge theory in spirit**, exploratory in mathe
 The theory is developed in structured **phases**, moving from symbolic modeling to simulation, prediction, and closure.  
 This public version contains polished write-ups of each phase:
 
-- **Phase 1:** Equation Proposal  
-- **Phase 2:** Physical Interpretation  
-- **Phase 3:** ψ Field Dynamics  
-- **Phase 4:** Foundations of Curvature Model  
-- **Phase 5:** Coupled Dynamics & Emergence  
-- **Phase 6:** Test Particle Motion  
-- **Phase 7:** Physical Consistency & Viability  
-- **Phase 8:** ψ as Geometric Field (Metric Embedding)  
-- **Phase 9:** ψ-Thermodynamics & Entropic Structures  
+- **Phase 01:** Equation Proposal  
+- **Phase 02:** Physical Interpretation  
+- **Phase 03:** ψ Field Dynamics  
+- **Phase 04:** Foundations of Curvature Model  
+- **Phase 05:** Coupled Dynamics & Emergence  
+- **Phase 06:** Test Particle Motion  
+- **Phase 07:** Physical Consistency & Viability  
+- **Phase 08:** ψ as Geometric Field (Metric Embedding)  
+- **Phase 09:** ψ-Thermodynamics & Entropic Structures  
 - **Phase 10:** Linear Stability & Dispersion Relations  
 - **Phase 11:** Predictive Power  
 - **Phase 12:** Quantization & Coupling  
@@ -236,5 +236,6 @@ Contact: **ian.tancinco.psi.gravity@gmail.com**
 
 📄 Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
 © 2025 Ian Anthony R. Tancinco  
+
 
 
